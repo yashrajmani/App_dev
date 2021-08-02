@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">scrools</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+
+
+    <string name="todo01">TODO</string>
+    <string name="todo02">TODO</string>
+    <string name="todo03">TODO</string>
+    <string name="todo04">TODO</string>
+    <string name="todo05">TODO</string>
+    <string name="todoa">TODO</string>
+    <string name="todob">TODO</string>
+    <string name="todoc">TODO</string>
+    <string name="todod">TODO</string>
+    <string name="todoe">TODO</string>
+    <string name="todof">TODO</string>
+    <string name="textview">VERTICAL SCROLL</string>
+    <string name="textview3">HORIZONTAL SCROLL</string>
+    <string name="vertical_scroll">VERTICAL SCROLL</string>
+</resources>
