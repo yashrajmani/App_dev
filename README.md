@@ -2,7 +2,7 @@
 Application Development: KOTLIN
 
 
-THIS IS NOT HIGH END APPS, This Repo is just a record of my app devleopment journey.
+THESE ARE NOT HIGH END APPS, This Repo is just a record of my app devleopment journey.
 I am adding 3 apps as of now later i might add few more.
 
 
